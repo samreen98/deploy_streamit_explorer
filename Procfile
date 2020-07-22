@@ -1,1 +1,1 @@
-sh setup.sh && streamlit run streamlit_app_bokeh.py
+sh setup.sh && streamlit run data_explorer.py
